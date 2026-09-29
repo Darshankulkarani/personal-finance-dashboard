@@ -2,6 +2,10 @@
 
 A responsive personal finance dashboard built using HTML, CSS, and JavaScript for managing and tracking financial transactions.
 
+## Live Demo
+
+[View Live Demo](https://darshankulkarani.github.io/personal-finance-dashboard/)
+
 ## Features
 
 - Dynamic income and expense tracking
